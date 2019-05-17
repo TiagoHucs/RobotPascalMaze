@@ -14,23 +14,14 @@ Declarei variáveis de inicio e fim(aleatório) e um estado inicial onde o robô
 Para que o robô andasse criei ifs dentro de ifs onde a prioridade sempre seria ir para a esquerda. Consiste em ir sempre para o lugar onde tivesse passado menos vezes e em caso de empate optar pela esquerda. 
 No exemplo abaixo pode-se ver que o robô sempre irá para baixo:
 
-<img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img1.PNG" alt="img1.PNG">
+<img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img1.PNG">
 
-9	9	9
-9	1	9
-9	1	9
-9	R	9
-9	0	9
-9	0	9
- 
 Da mesma forma em que podemos ver que o robô optará em ir ainda não foi ou onde esteve menos vezes que no exemplo abaixo escolherá ir para a direita:
-9	1	9
-9	R	0
-9	2	9
+<img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img2.PNG">
  
  
 No código é possível contar quantos passos o robô andou pois a cada decisão de direção tomada soma-se +1 a um contador. Também defini no meu código que todo ponto sem saída ou intercessão entre caminhos é um só, sendo possível contar quantos nós visitei e quantas vezes visitei cada nó.
 A interatividade foi implementada na aleatoriedade do ponto final no labirindo podendo ser uma busca profunda ou raza. Também poderia delimitar  a quantidade de passos ou um limite de nós. Mas não coloquei neste código.
 
 O resultado pode ser visto na imagem abaixo em 2 execuções diferentes do programa:
-    
+<img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img3.PNG">

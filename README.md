@@ -13,6 +13,9 @@ Na criação do labirinto delimitei por uma matriz posições possíveis e impos
 Declarei variáveis de inicio e fim(aleatório) e um estado inicial onde o robô não teria ainda passado por nenhum lugar e inicia sua busca na parte superior esquerda da tela. 
 Para que o robô andasse criei ifs dentro de ifs onde a prioridade sempre seria ir para a esquerda. Consiste em ir sempre para o lugar onde tivesse passado menos vezes e em caso de empate optar pela esquerda. 
 No exemplo abaixo pode-se ver que o robô sempre irá para baixo:
+
+<img src="https://camo.githubusercontent.com/c6554be5fcff2a15e3f5ea9b236d1630d2bfb4b0/68747470733a2f2f7261772e6769746875622e636f6d2f63796b6f642f5175696e7475732f6d61737465722f6578616d706c65732f706c6174666f726d65722e706e67" alt="Quintus Platformer Example" data-canonical-src="https://raw.github.com/cykod/Quintus/master/examples/platformer.png" style="max-width:100%;">
+
 9	9	9
 9	1	9
 9	1	9

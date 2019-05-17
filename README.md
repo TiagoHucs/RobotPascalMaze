@@ -17,6 +17,7 @@ No exemplo abaixo pode-se ver que o robô sempre irá para baixo:
 <img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img1.PNG">
 
 Da mesma forma em que podemos ver que o robô optará em ir ainda não foi ou onde esteve menos vezes que no exemplo abaixo escolherá ir para a direita:
+
 <img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img2.PNG">
  
  
@@ -24,4 +25,5 @@ No código é possível contar quantos passos o robô andou pois a cada decisão
 A interatividade foi implementada na aleatoriedade do ponto final no labirindo podendo ser uma busca profunda ou raza. Também poderia delimitar  a quantidade de passos ou um limite de nós. Mas não coloquei neste código.
 
 O resultado pode ser visto na imagem abaixo em 2 execuções diferentes do programa:
+
 <img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img3.PNG">

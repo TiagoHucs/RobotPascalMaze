@@ -14,7 +14,7 @@ Declarei variáveis de inicio e fim(aleatório) e um estado inicial onde o robô
 Para que o robô andasse criei ifs dentro de ifs onde a prioridade sempre seria ir para a esquerda. Consiste em ir sempre para o lugar onde tivesse passado menos vezes e em caso de empate optar pela esquerda. 
 No exemplo abaixo pode-se ver que o robô sempre irá para baixo:
 
-<img src="img/img1.PNG">
+<img src="./img/img1.png">
 
 9	9	9
 9	1	9

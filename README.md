@@ -14,7 +14,7 @@ Declarei variáveis de inicio e fim(aleatório) e um estado inicial onde o robô
 Para que o robô andasse criei ifs dentro de ifs onde a prioridade sempre seria ir para a esquerda. Consiste em ir sempre para o lugar onde tivesse passado menos vezes e em caso de empate optar pela esquerda. 
 No exemplo abaixo pode-se ver que o robô sempre irá para baixo:
 
-<img src="/TiagoHucs/RobotPascalMaze/blob/master/imgs/img1.PNG?raw=true" alt="img1.PNG">
+<img src="https://github.com/TiagoHucs/RobotPascalMaze/blob/master/imgs/img1.PNG" alt="img1.PNG">
 
 9	9	9
 9	1	9
